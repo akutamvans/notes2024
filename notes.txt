@@ -1,0 +1,13 @@
+<span id="a">dandilesmana@gmail.com</span>:<span id="b">~</span><span id="c">$</span> cd notes
+<span id="a">dandilesmana@gmail.com</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglag -->notes2024.txt<br/><br/>
+<p>Catatan manusia.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>
+Kita seringkali baru baru menyadari sesuatu ketika kita kehilanganya. Kesehatan, waktu, orang terdekat kita. Berusahalah untuk mensyukuri hal hal kecil setiap hari, terus berusaha bergerak maju, dan teruslah mencoba bermanfaat bagi orang lain
+</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>
+Ketika Kesusahan datang berusahalah meyakinkan diri bahwa <span id="c">"Setelah kesulitan pasti ada kemudahan"</span>, 
+Berusahalah terus melakukan yang terbaik dalam setiap kesempatan yang datang. Perihal hasil? itu bukan sesuatu yang bisa kita kontrol
+
+</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>It's me <a href="https://dandilesmana.dev">dandi</a> lovU mam!</p> <!-- delaydelaydelaydelaydelaydelaydelay -->
+<span id="a">dandilesmana@gmail.com</span>:<span id="b">~</span><span id="c">$</span> exit 
